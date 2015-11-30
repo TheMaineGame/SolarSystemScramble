@@ -1,0 +1,6 @@
+Move the planets around so the choices arent in order
+
+No explosions
+
+Shrink Saturns button collider so we can choose the smaller planet next to it
+
