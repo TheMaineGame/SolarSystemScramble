@@ -1,0 +1,63 @@
+
+Planet Order: 1st
+
+
+Primary Colors: White And Gray
+
+
+Size: Small	,
+Planet Order: 2nd
+
+
+Primary Colors: Yellow And Orange
+ 
+ 
+Size: Medium
+	,	
+Planet Order: 3rd
+
+
+Primary Colors: Blue And Green
+ 
+ 
+Size: Medium,
+Planet Order: 4th
+
+
+Primary Color: Red
+
+
+Size: Medium
+	,
+Planet Order: 5th
+
+
+Primary Colors:  Brown And Tan
+
+
+Size: Large
+
+,
+Planet Order: 6th
+
+
+Primary Colors: Tan And Brown
+
+
+Size: Large And Has Rings
+,
+Planet Order: 7th
+
+
+Primary Color: Light Blue
+
+
+Size: Large And Has Rings
+,
+Planet Order: 8th
+
+
+Primary Color: Blue
+
+
+Size: Large
