@@ -37,7 +37,7 @@ public class GameController : MonoBehaviour {
 	public Vector3 cameraEndPos;
 	public Vector3 cameraEndRot;
 	public static Vector3 newCameraPosition;
-	
+
 	public List<GameObject> planets = new List<GameObject> ();
 	public GameObject menuPlanets;
 	public GameObject frames;
